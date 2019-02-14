@@ -4,12 +4,14 @@ main{
     box-align: center;
 }
 
-h1{
+header{
     font-size: 20pt;
     position: fixed;
-    text-align: center;
     align-items: center;
     padding: 2rem;
+    width: 100%;
+    border: black;
+    border-width: 1em;
 }
 
 
