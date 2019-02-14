@@ -1,11 +1,15 @@
-html{
-    background-color: lightsteelblue;
+
+main{
+    width: 80%;
+    box-align: center;
 }
 
 h1{
     font-size: 20pt;
     position: fixed;
+    text-align: center;
     align-items: center;
-    margin: auto;
     padding: 2rem;
 }
+
+
