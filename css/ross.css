@@ -2,6 +2,10 @@ html{
     background-color: lightsteelblue;
 }
 
-header{
+h1{
     font-size: 20pt;
+    position: fixed;
+    align-items: center;
+    margin: auto;
+    padding: 2rem;
 }
