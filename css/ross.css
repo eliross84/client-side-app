@@ -1,17 +1,14 @@
-
-main{
-    width: 80%;
-    box-align: center;
+html{
+    background-color: lightsteelblue;
 }
 
-header{
+h1{
     font-size: 20pt;
     position: fixed;
-    align-items: center;
-    padding: 2rem;
-    width: 100%;
+    text-align: center;
+    min-width: 100%;
     border: black;
-    border-width: 1em;
+    border-width: 2rem;
 }
 
 
